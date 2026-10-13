@@ -1,0 +1,10 @@
+# Bỏ qua tệp cấu hình bảo mật chứa mật khẩu
+.env
+
+# Bỏ qua dependencies của Node.js
+node_modules/
+npm-debug.log*
+
+# Bỏ qua tệp hệ thống
+.DS_Store
+Thumbs.db
